@@ -17,16 +17,17 @@
                             <div class="col-lg-11">
                                 <div class="hero__caption">
                                     <div class="hero-text1">
-                                        <span data-animation="fadeInUp" data-delay=".3s">hand car wash and detailing service</span>
+                                        <span data-animation="fadeInUp" data-delay=".3s">building with ease</span>
                                     </div>
-                                    <h1 data-animation="fadeInUp" data-delay=".5s">advanced</h1>
+                                    <h1 data-animation="fadeInUp" data-delay=".5s">TOPFOLAFAD</h1>
                                     <div class="stock-text" data-animation="fadeInUp" data-delay=".8s">
-                                        <h2>Construction</h2>
-                                        <h2>Construction</h2>
+                                        <h2>NIGERIA</h2>
+                                        <h2>NIGERIA</h2>
+
                                     </div>
-                                    <div class="hero-text2 mt-110" data-animation="fadeInUp" data-delay=".9s">
+                                    <!-- <div class="hero-text2 mt-110" data-animation="fadeInUp" data-delay=".9s">
                                         <span><a href="services.html">Our Services</a></span>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -77,8 +78,8 @@
                                 <img src="assets/img/service/servicess1.png" alt="">
                             </div>
                             <div class="service-cap">
-                                <h4><a href="services_details.html">Engineering techniques & implementation</a></h4>
-                                <a href="services_details.html" class="more-btn">Read More <i class="ti-plus"></i></a>
+                                <h4><a href="#">Building Construction</a></h4>
+                                <a href="#" class="more-btn">Read More <i class="ti-plus"></i></a>
                             </div>
                             <div class="service-icon">
                                 <img src="assets/img/icon/services_icon1.png" alt="">
@@ -91,8 +92,8 @@
                                 <img src="assets/img/service/servicess2.png" alt="">
                             </div>
                             <div class="service-cap">
-                                <h4><a href="services_details.html">Engineering techniques & implementation</a></h4>
-                                <a href="services_details.html" class="more-btn">Read More <i class="ti-plus"></i></a>
+                                <h4><a href="#">Real Estate & Property</a></h4>
+                                <a href="#" class="more-btn">Read More <i class="ti-plus"></i></a>
                             </div>
                             <div class="service-icon">
                                 <img src="assets/img/icon/services_icon1.png" alt="">
@@ -105,8 +106,8 @@
                                 <img src="assets/img/service/servicess3.png" alt="">
                             </div>
                             <div class="service-cap">
-                                <h4><a href="services_details.htmlaa">Engineering techniques & implementation</a></h4>
-                                <a href="services_details.html" class="more-btn">Read More <i class="ti-plus"></i></a>
+                                <h4><a href="#">Building design & Drawings</a></h4>
+                                <a href="#" class="more-btn">Read More <i class="ti-plus"></i></a>
                             </div>
                             <div class="service-icon">
                                 <img src="assets/img/icon/services_icon1.png" alt="">
